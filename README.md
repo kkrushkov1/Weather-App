@@ -1,6 +1,7 @@
-# Tip Calculator
+# Weather App
 
-A simple and interactive "Rock Paper Scissors" game built with JavaScript.
+A weather app which helps you know about the weather of any location.
+It is a Celsius-based temperature.
 
-![picture](/images/rps_game1.png)
-![picture](/images/rps_game2.png)
+![picture](/images/weather_app1.png)
+![picture](/images/weather_app2.png)
